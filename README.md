@@ -1,3 +1,6 @@
+![image](https://github.com/projectmedicloud/MediCloud-React-Frontend/assets/69927063/c5bd061c-a06a-43fb-a2e0-4bef1392e20d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
